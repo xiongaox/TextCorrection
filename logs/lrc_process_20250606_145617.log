@@ -1,0 +1,36 @@
+2025-06-06 14:56:17,029 - INFO - 多格式文本处理程序启动
+2025-06-06 14:56:17,030 - INFO - 将处理当前目录: /Users/xiongaox/Downloads/Cursor_test/TextCorrection
+2025-06-06 14:56:17,030 - INFO - 支持的文件格式:
+2025-06-06 14:56:17,030 - INFO -   .lrc - LRC歌词文件
+2025-06-06 14:56:17,030 - INFO -   .txt - 纯文本文件
+2025-06-06 14:56:17,030 - INFO -   .srt - SRT字幕文件
+2025-06-06 14:56:17,030 - INFO -   .ass - ASS字幕文件
+2025-06-06 14:56:17,030 - INFO -   .ssa - SSA字幕文件
+2025-06-06 14:56:17,030 - INFO -   .vtt - WebVTT字幕文件
+2025-06-06 14:56:17,030 - INFO - 加载了 137 个替换规则
+2025-06-06 14:56:17,030 - INFO - 开始处理目录: /Users/xiongaox/Downloads/Cursor_test/TextCorrection
+2025-06-06 14:56:17,030 - INFO - 支持的文件格式: .lrc, .txt, .srt, .ass, .ssa, .vtt
+2025-06-06 14:56:17,345 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/011.坤造：丁卯_壬寅_丁亥_癸卯.srt
+2025-06-06 14:56:17,545 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/150.坤造：癸酉_癸亥_己未_丙寅.srt
+2025-06-06 14:56:17,641 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/055.坤造：壬戌_乙巳_庚子_丙子.srt
+2025-06-06 14:56:17,670 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/144.坤造：甲成_乙亥_辛亥_甲午.srt
+2025-06-06 14:56:17,676 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/149.坤造：癸酉_壬戌_甲子_壬申.srt
+2025-06-06 14:56:17,692 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/133.坤造：戊辰_甲子_乙巳_丁亥.srt
+2025-06-06 14:56:17,736 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/003.坤造：丁丑_己酉_癸亥_丁巳.srt
+2025-06-06 14:56:17,748 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/154.坤造：辛未_己亥_辛亥_丙申.srt
+2025-06-06 14:56:17,756 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/066.乾造：己巳_乙亥_辛巳_庚寅.srt
+2025-06-06 14:56:17,797 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/142.坤造：甲戌_戊辰_戊辰_甲寅.srt
+2025-06-06 14:56:17,995 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/催官篇/23.亥龙可以立哪些向.srt
+2025-06-06 14:56:18,000 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/催官篇/25.辛龙可以定哪些向_附贫单绝秘法.srt
+2025-06-06 14:56:18,040 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/催官篇/16.来龙不喜驳杂_如何理解净阴净阳.srt
+2025-06-06 14:56:18,045 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/催官篇/19.论亥_艮龙兼左右的吉凶.srt
+2025-06-06 14:56:18,074 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/催官篇/22.来龙最后一课_对龙诀看法的总结.srt
+2025-06-06 14:56:18,080 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/催官篇/3.四神八将能催贵_赦文见水消百灾.srt
+2025-06-06 14:56:18,192 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/58.有些地看似吉实则凶_而有些看似凶实则吉.srt
+2025-06-06 14:56:18,243 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/49.穴前喜见曲折水_高低要适宜.srt
+2025-06-06 14:56:18,328 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/65.论呼形喝象的看法【第二讲】.srt
+2025-06-06 14:56:18,705 - INFO - 文件类型统计:
+2025-06-06 14:56:18,706 - INFO -   .srt (SRT字幕文件): 534 个文件
+2025-06-06 14:56:18,706 - INFO - 替换词使用统计:
+2025-06-06 14:56:18,706 - INFO -   '一庚金' 被替换了 28 次
+2025-06-06 14:56:18,706 - INFO - 处理完成! 总计: 534 文件, 修改: 19 文件, 处理出错: 0 文件
