@@ -1,0 +1,201 @@
+2025-07-01 17:20:43,767 - INFO - 多格式文本处理程序启动
+2025-07-01 17:20:43,767 - INFO - 将处理当前目录: /Users/xiongaox/Downloads/Cursor_test/TextCorrection
+2025-07-01 17:20:43,767 - INFO - 支持的文件格式:
+2025-07-01 17:20:43,767 - INFO -   .lrc - LRC歌词文件
+2025-07-01 17:20:43,767 - INFO -   .txt - 纯文本文件
+2025-07-01 17:20:43,767 - INFO -   .srt - SRT字幕文件
+2025-07-01 17:20:43,767 - INFO -   .ass - ASS字幕文件
+2025-07-01 17:20:43,767 - INFO -   .ssa - SSA字幕文件
+2025-07-01 17:20:43,767 - INFO -   .vtt - WebVTT字幕文件
+2025-07-01 17:20:43,768 - INFO - 加载了 155 个替换规则
+2025-07-01 17:20:43,768 - INFO - 开始处理目录: /Users/xiongaox/Downloads/Cursor_test/TextCorrection
+2025-07-01 17:20:43,768 - INFO - 支持的文件格式: .lrc, .txt, .srt, .ass, .ssa, .vtt
+2025-07-01 17:20:43,781 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/风水直断/2.出哑巴的风水是什么样的.srt
+2025-07-01 17:20:43,785 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/风水直断/31.会导致子女得头疼病的风水.srt
+2025-07-01 17:20:43,788 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/风水直断/7.会导致女性犯桃花的风水.srt
+2025-07-01 17:20:43,790 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/风水直断/28.会导致家人得肺病的风水有哪些.srt
+2025-07-01 17:20:43,796 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/风水直断/15.会导致财运不好_代代贫穷的风水.srt
+2025-07-01 17:20:43,798 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/风水直断/11.容易导致家人多病_寿短的风水.srt
+2025-07-01 17:20:43,801 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/风水直断/19.如何看排行以会导致贫富差距较大的看法.srt
+2025-07-01 17:20:43,805 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/风水直断/17.会导致家人多病的风水.srt
+2025-07-01 17:20:43,807 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/风水直断/21.哪些风水会世代出善良之人.srt
+2025-07-01 17:20:43,810 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/风水直断/16.会导致撞邪的风水有哪些.srt
+2025-07-01 17:20:43,814 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/风水直断/8.容易导致子孙不孝的风水有哪些.srt
+2025-07-01 17:20:43,817 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/风水直断/6.会导致出精神疾病或痴傻的风水.srt
+2025-07-01 17:20:43,819 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/风水直断/24.专发女人的风水有哪些.srt
+2025-07-01 17:20:43,829 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/风水直断/3.会导致后代耳聋的风水.srt
+2025-07-01 17:20:43,831 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/风水直断/9.会导致婚姻不利_夫妻分离的风水.srt
+2025-07-01 17:20:43,843 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/阳明心学/3.惟精惟一.srt
+2025-07-01 17:20:43,849 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/阳明心学/2.心外无物.srt
+2025-07-01 17:20:43,856 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/阳明心学/4.何为知行合一.srt
+2025-07-01 17:20:43,869 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/阳明心学/1.何为至善.srt
+2025-07-01 17:20:43,876 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/天星风水/11.辅星水法以及三合水法的用法.srt
+2025-07-01 17:20:43,879 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/天星风水/10.揭秘纳甲和九星吉凶断语.srt
+2025-07-01 17:20:43,882 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/天星风水/4.认识三元龙_以及运用方法.srt
+2025-07-01 17:20:43,885 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/天星风水/6.什么是120分金_都有哪些用法.srt
+2025-07-01 17:20:43,889 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/天星风水/1.何为阴阳.srt
+2025-07-01 17:20:43,893 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/天星风水/12.天星阳宅法_真八宅的用法.srt
+2025-07-01 17:20:43,907 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/天星风水/5.简述什么是河图洛书以及先后天八卦.srt
+2025-07-01 17:20:43,955 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/阳宅风水/8.宅的外形影响吉凶.srt
+2025-07-01 17:20:43,959 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/阳宅风水/10.房屋安床的注意事项.srt
+2025-07-01 17:20:43,971 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/奇门遁甲/4.八门的象义讲解.srt
+2025-07-01 17:20:43,974 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/奇门遁甲/2.十二地支的象义讲解.srt
+2025-07-01 17:20:43,976 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/奇门遁甲/8.测疾病健康的经验.srt
+2025-07-01 17:20:43,985 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/奇门遁甲/9.测经营求财的经验.srt
+2025-07-01 17:20:43,994 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/奇门遁甲/10.什么是九遁有哪些含义.srt
+2025-07-01 17:20:44,000 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/奇门遁甲/17.测疾病的方法.srt
+2025-07-01 17:20:44,004 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/奇门遁甲/5.八神的含义有哪些.srt
+2025-07-01 17:20:44,007 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/奇门遁甲/13.学习的经验之谈.srt
+2025-07-01 17:20:44,010 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/奇门遁甲/3.九星的象义讲解.srt
+2025-07-01 17:20:44,014 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/金锁玉关/2.坤卦：住宅西南方之风水看法.srt
+2025-07-01 17:20:44,019 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/金锁玉关/1.风水到底该怎么学.srt
+2025-07-01 17:20:44,025 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/金锁玉关/5.乾卦：住宅西北方的风水_是喜欢高起还是低矮呢.srt
+2025-07-01 17:20:44,027 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/金锁玉关/7.艮卦：东北方关系子孙多寡_没有男丁赶快检查一下这个方位.srt
+2025-07-01 17:20:44,042 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/084.乾造：戊寅_乙卯_丁巳_辛亥.srt
+2025-07-01 17:20:44,118 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/001.坤造：辛酉_甲午_丁巳_乙巳.srt
+2025-07-01 17:20:44,138 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/025.坤造：丁巳_庚戌_辛酉_甲午.srt
+2025-07-01 17:20:44,148 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/011.坤造：丁卯_壬寅_丁亥_癸卯.srt
+2025-07-01 17:20:44,168 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/076.乾造：庚午_壬午_辛亥_丁酉.srt
+2025-07-01 17:20:44,251 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/119.坤造：戊申_壬戌_戊午_癸亥.srt
+2025-07-01 17:20:44,257 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/147.坤造：癸酉_乙卯_丁未_癸卯.srt
+2025-07-01 17:20:44,281 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/127.坤造：戊辰_己未_乙酉_壬午.srt
+2025-07-01 17:20:44,293 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/118.乾造：癸亥_乙卯_丙午_辛卯.srt
+2025-07-01 17:20:44,307 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/083.坤造：己巳_辛未_戊戌_癸亥.srt
+2025-07-01 17:20:44,356 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/016.乾造：丁卯_癸卯_丁卯_辛亥.srt
+2025-07-01 17:20:44,365 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/082.乾造：戊午_己未_辛卯_辛卯.srt
+2025-07-01 17:20:44,380 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/061.坤造：己卯_甲戌_庚戌_乙酉.srt
+2025-07-01 17:20:44,395 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/150.坤造：癸酉_癸亥_己未_丙寅.srt
+2025-07-01 17:20:44,426 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/139.坤造：甲子_癸酉_丙辰_戊子.srt
+2025-07-01 17:20:44,442 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/060.乾造：壬申_辛亥_庚子_己卯.srt
+2025-07-01 17:20:44,452 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/125.坤造：戊辰_乙卯_辛酉_戊子.srt
+2025-07-01 17:20:44,482 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/091.坤造：己未_庚午_丙午_壬辰.srt
+2025-07-01 17:20:44,502 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/100.乾造：戊辰_甲寅_甲寅_丙寅.srt
+2025-07-01 17:20:44,516 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/055.坤造：壬戌_乙巳_庚子_丙子.srt
+2025-07-01 17:20:44,525 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/113.坤造：庚辰_丁亥_己丑_壬申.srt
+2025-07-01 17:20:44,533 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/030.乾造：乙丑_己丑_辛亥_壬辰.srt
+2025-07-01 17:20:44,553 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/144.坤造：甲成_乙亥_辛亥_甲午.srt
+2025-07-01 17:20:44,559 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/149.坤造：癸酉_壬戌_甲子_壬申.srt
+2025-07-01 17:20:44,567 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/058.乾造：壬申_庚戌_丁亥_乙巳.srt
+2025-07-01 17:20:44,575 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/129.坤造：戊辰_庚申_丙午_壬辰.srt
+2025-07-01 17:20:44,583 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/133.坤造：戊辰_甲子_乙巳_丁亥.srt
+2025-07-01 17:20:44,685 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/003.坤造：丁丑_己酉_癸亥_丁巳.srt
+2025-07-01 17:20:44,704 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/154.坤造：辛未_己亥_辛亥_丙申.srt
+2025-07-01 17:20:44,712 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/066.乾造：己巳_乙亥_辛巳_庚寅.srt
+2025-07-01 17:20:44,740 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/019.坤造：丁卯_癸丑_甲申_丙寅.srt
+2025-07-01 17:20:44,752 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/056.乾造：壬申_壬子_戊寅_壬戌.srt
+2025-07-01 17:20:44,765 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/142.坤造：甲戌_戊辰_戊辰_甲寅.srt
+2025-07-01 17:20:44,773 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/021.坤造：丁卯_癸丑_辛酉_己亥.srt
+2025-07-01 17:20:44,793 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/046.乾造：壬午_辛亥_丁未_庚子.srt
+2025-07-01 17:20:44,808 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/085.坤造：己未_丁丑_丁酉_丙午.srt
+2025-07-01 17:20:44,828 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/八字命理/079.坤造：己巳_辛未_丙申_己丑.srt
+2025-07-01 17:20:44,928 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/正五行择日/12.论冲丁煞_分金择日法.srt
+2025-07-01 17:20:44,931 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/正五行择日/28.天赦日_年解神_月解神的用法.srt
+2025-07-01 17:20:44,935 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/正五行择日/29.论安葬择日之法.srt
+2025-07-01 17:20:44,951 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/正五行择日/14.建除十二神的用法.srt
+2025-07-01 17:20:44,956 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/正五行择日/9.学习克山运的推算方法_重点知识.srt
+2025-07-01 17:20:44,960 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/正五行择日/24.婚嫁择日的方法.srt
+2025-07-01 17:20:44,965 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/正五行择日/32.二十八星宿择日的用法.srt
+2025-07-01 17:20:44,968 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/正五行择日/30.有利健康的择日方法_天医方.srt
+2025-07-01 17:20:44,978 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/正五行择日/1.什么是择日_目前有哪些择日方法.srt
+2025-07-01 17:20:44,999 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/催官篇/23.亥龙可以立哪些向.srt
+2025-07-01 17:20:45,005 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/催官篇/25.辛龙可以定哪些向_附贫单绝秘法.srt
+2025-07-01 17:20:45,014 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/催官篇/2.亥龙立壬山丙向_最催官发贵.srt
+2025-07-01 17:20:45,020 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/催官篇/9.来龙要有变化_且不能散乱_方能为吉.srt
+2025-07-01 17:20:45,032 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/催官篇/11.净阴净阳之法_应该如何使用.srt
+2025-07-01 17:20:45,036 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/催官篇/12.催贵关键在于砂_论壬子癸龙的吉凶.srt
+2025-07-01 17:20:45,039 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/催官篇/5.三吉六秀方以及归元风水做法揭秘.srt
+2025-07-01 17:20:45,045 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/催官篇/21.判断是生旺龙还是病死龙的方法.srt
+2025-07-01 17:20:45,052 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/催官篇/16.来龙不喜驳杂_如何理解净阴净阳.srt
+2025-07-01 17:20:45,058 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/催官篇/19.论亥_艮龙兼左右的吉凶.srt
+2025-07-01 17:20:45,061 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/催官篇/17.来龙不喜阴阳驳杂_细分辨断吉凶.srt
+2025-07-01 17:20:45,064 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/催官篇/20.如何看脉从什么方位来的_很重要.srt
+2025-07-01 17:20:45,067 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/催官篇/4.论来龙左关局与右关局催官.srt
+2025-07-01 17:20:45,076 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/催官篇/13.易损人丁_伤子孙的坎龙.srt
+2025-07-01 17:20:45,081 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/催官篇/27.卯方来龙可以定哪些向_兼向秘诀.srt
+2025-07-01 17:20:45,090 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/催官篇/22.来龙最后一课_对龙诀看法的总结.srt
+2025-07-01 17:20:45,093 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/催官篇/15.论甲寅方来龙吉凶_以及阳龙的特点.srt
+2025-07-01 17:20:45,097 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/催官篇/3.四神八将能催贵_赦文见水消百灾.srt
+2025-07-01 17:20:45,112 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/金刚经/8.为什么说所谓佛法_既非佛法.srt
+2025-07-01 17:20:45,138 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/金刚经/9.什么是罗汉_何为阿罗汉.srt
+2025-07-01 17:20:45,182 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/金刚经/2.须菩提向佛陀提问_如何降服其心.srt
+2025-07-01 17:20:45,206 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/4.葬乘生气_脉认来龙.srt
+2025-07-01 17:20:45,210 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/37.当峦头和理气冲突的时候_如何取舍.srt
+2025-07-01 17:20:45,217 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/58.有些地看似吉实则凶_而有些看似凶实则吉.srt
+2025-07-01 17:20:45,233 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/45.点穴一定要有脉_且要正而不斜.srt
+2025-07-01 17:20:45,246 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/62.出文官武将的断法.srt
+2025-07-01 17:20:45,250 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/22.吉凶从形势上来_且不可弃本逐末.srt
+2025-07-01 17:20:45,257 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/51.龙吉穴吉_日课不吉_依然发凶.srt
+2025-07-01 17:20:45,267 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/49.穴前喜见曲折水_高低要适宜.srt
+2025-07-01 17:20:45,271 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/8.祖宗耸拔者_子孙必贵.srt
+2025-07-01 17:20:45,290 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/52.论述峦头_理气与日课之间的关系_非常重要.srt
+2025-07-01 17:20:45,314 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/21.朝山远近大小吉凶如何辨别.srt
+2025-07-01 17:20:45,316 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/50.虽然穴吉_如果葬凶也会大败.srt
+2025-07-01 17:20:45,332 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/10.好风水如何才可得到.srt
+2025-07-01 17:20:45,359 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/15.金清土浊_火燥水柔.srt
+2025-07-01 17:20:45,362 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/54.如何判断时间_何年吉何年凶.srt
+2025-07-01 17:20:45,366 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/65.论呼形喝象的看法【第二讲】.srt
+2025-07-01 17:20:45,381 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/77.尽信书不如无书_该如何学习风水.srt
+2025-07-01 17:20:45,386 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/78.【最后一课】论积德的重要性.srt
+2025-07-01 17:20:45,401 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/5.阴阳顺逆_需用心去看.srt
+2025-07-01 17:20:45,406 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/36.看山水就和看人一样_点穴心法.srt
+2025-07-01 17:20:45,426 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/72.看风水要有主次之分_应该怎么去看.srt
+2025-07-01 17:20:45,436 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/43.如何趋吉避凶_眼不见为净.srt
+2025-07-01 17:20:45,446 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/雪心赋/53.要学好风水_必须多验证仙迹.srt
+2025-07-01 17:20:45,535 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/02.五行总论_认识五行.srt
+2025-07-01 17:20:45,540 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/72.割脚水_反弓水_淋头水等凶水讲解.srt
+2025-07-01 17:20:45,562 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/74.山地平洋总论_山地风水和平洋的区别.srt
+2025-07-01 17:20:45,567 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/25.水口禽星_万笏朝天_如何学习峦头风水.srt
+2025-07-01 17:20:45,574 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/32.学习提问答疑.srt
+2025-07-01 17:20:45,578 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/77.平洋风水富贵丁寿催旺之法.srt
+2025-07-01 17:20:45,584 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/53.文笔砂_哪些风水会出文化人.srt
+2025-07-01 17:20:45,591 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/70.仓板水_簸进水_入口水_缠玄武水_九曲水_田源水的看法.srt
+2025-07-01 17:20:45,594 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/24.谈谈自己对四大局水口断来龙旺衰的看法.srt
+2025-07-01 17:20:45,602 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/10.什么是罗盘以及分金用法.srt
+2025-07-01 17:20:45,605 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/03.玄关同窍_龙向水合.srt
+2025-07-01 17:20:45,610 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/27.左旋右旋阴阳龙水论_何为阴阳交媾.srt
+2025-07-01 17:20:45,612 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/76.什么是风水布局_如何去做.srt
+2025-07-01 17:20:45,615 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/65.谈谈我对四大局水法的看法.srt
+2025-07-01 17:20:45,617 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/21.地有十恶不善_哪些风水大凶（下）.srt
+2025-07-01 17:20:45,624 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/50.木星贵人_如果布催贵局.srt
+2025-07-01 17:20:45,625 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/61.吉凶砂形图25-32山形图讲解.srt
+2025-07-01 17:20:45,627 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/67.漩渚水_房子前面有池塘好不好.srt
+2025-07-01 17:20:45,632 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/08.三吉六秀以及催官贵人.srt
+2025-07-01 17:20:45,635 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/17.地理总论_何为三纲.srt
+2025-07-01 17:20:45,638 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/13.学地理入门法_如何学习风水.srt
+2025-07-01 17:20:45,642 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/28.什么是骑龙诀_如何去使用.srt
+2025-07-01 17:20:45,644 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/68.暗拱水_朝拜水_聚天心说法讲解.srt
+2025-07-01 17:20:45,651 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/35.风水学习答疑.srt
+2025-07-01 17:20:45,663 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/34.如何学习风水_古人说了六法.srt
+2025-07-01 17:20:45,678 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/06.四局马例_如何布置驿马局.srt
+2025-07-01 17:20:45,681 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/56.朝拜砂_如何看风水地运的长短.srt
+2025-07-01 17:20:45,683 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/31.如何看龙脉的富贵贫贱之法.srt
+2025-07-01 17:20:45,687 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/26.如何通过肉眼看龙脉的吉凶.srt
+2025-07-01 17:20:45,691 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/07.贵人禄山的看法_如何催贵.srt
+2025-07-01 17:20:45,693 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/29.金木水火四大局龙水格.srt
+2025-07-01 17:20:45,697 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/22.龙诀_如何看龙脉风水.srt
+2025-07-01 17:20:45,711 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/57.罗星砂_如何看出文官还是武将.srt
+2025-07-01 17:20:45,714 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/19.何为四美_好风水的具备条件.srt
+2025-07-01 17:20:45,720 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/49.砂法指明_砂要在吉方才好.srt
+2025-07-01 17:20:45,722 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/09.十二长生水法口诀.srt
+2025-07-01 17:20:45,725 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/36.木星如何结穴.srt
+2025-07-01 17:20:45,733 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/01.先认识地理五诀.srt
+2025-07-01 17:20:45,738 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/地理五诀/73.向诀并言_如何学习风水_以及拜师.srt
+2025-07-01 17:20:45,761 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/葬书/10.【乘气论】平阳之地如何看气.srt
+2025-07-01 17:20:45,763 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/葬书/04.【风水论】第四讲.srt
+2025-07-01 17:20:45,772 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/葬书/11.【乘气论】点穴秘诀.srt
+2025-07-01 17:20:45,789 - INFO - 已处理: /Users/xiongaox/Downloads/Cursor_test/TextCorrection/葬书/15.【支垅论】风水应该如何去看.srt
+2025-07-01 17:20:45,811 - INFO - 文件类型统计:
+2025-07-01 17:20:45,811 - INFO -   .srt (SRT字幕文件): 534 个文件
+2025-07-01 17:20:45,811 - INFO - 替换词使用统计:
+2025-07-01 17:20:45,811 - INFO -   '治' 被替换了 243 次
+2025-07-01 17:20:45,811 - INFO -   '悬空' 被替换了 184 次
+2025-07-01 17:20:45,811 - INFO -   '根筋' 被替换了 28 次
+2025-07-01 17:20:45,811 - INFO -   '一庚金' 被替换了 28 次
+2025-07-01 17:20:45,811 - INFO -   '礼器' 被替换了 20 次
+2025-07-01 17:20:45,811 - INFO -   '丙承' 被替换了 17 次
+2025-07-01 17:20:45,811 - INFO -   '、' 被替换了 9 次
+2025-07-01 17:20:45,811 - INFO -   '五月' 被替换了 1 次
+2025-07-01 17:20:45,811 - INFO -   '呢' 被替换了 1 次
+2025-07-01 17:20:45,811 - INFO -   '啊' 被替换了 1 次
+2025-07-01 17:20:45,811 - INFO -   '硬芯' 被替换了 1 次
+2025-07-01 17:20:45,811 - INFO - 处理完成! 总计: 534 文件, 修改: 174 文件, 处理出错: 0 文件

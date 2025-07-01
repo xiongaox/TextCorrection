@@ -126,14 +126,26 @@ def process_srt_content(lines, replacements, replacement_counts, empty_line_coun
     processed_lines = []
     modified = False
     i = 0
+    consecutive_empty_lines = 0  # 记录连续空行数量
     
     while i < len(lines):
         line = lines[i].strip()
         
-        # 跳过空行
+        # 处理空行 - SRT格式需要保留空行作为字幕块分隔符，但删除多余的连续空行
         if not line:
+            consecutive_empty_lines += 1
+            # 只保留一个空行，如果有多个连续空行则删除多余的
+            if consecutive_empty_lines == 1:
+                processed_lines.append('\n')  # 保留第一个空行
+            else:
+                # 多余的空行被删除，计入删除计数
+                empty_line_count[0] += 1
+                modified = True
             i += 1
             continue
+        else:
+            # 重置连续空行计数器
+            consecutive_empty_lines = 0
         
         # 字幕序号
         if line.isdigit():
@@ -149,18 +161,26 @@ def process_srt_content(lines, replacements, replacement_counts, empty_line_coun
         
         # 字幕内容行
         subtitle_text = line
+        original_subtitle = subtitle_text
+        
         for old_text, new_text in replacements.items():
             if old_text in subtitle_text:
                 count = subtitle_text.count(old_text)
                 replacement_counts[old_text] = replacement_counts.get(old_text, 0) + count
                 subtitle_text = subtitle_text.replace(old_text, new_text)
-                modified = True
         
+        # 检查是否发生了替换
+        if subtitle_text != original_subtitle:
+            modified = True
+        
+        # 只有当字幕内容完全为空时才计入空行删除（这种情况很少见）
         if subtitle_text.strip():
             processed_lines.append(subtitle_text + '\n')
         else:
             empty_line_count[0] += 1
             modified = True
+            # 即使内容为空，也要保留一个空行来维持SRT格式
+            processed_lines.append('\n')
         
         i += 1
     
